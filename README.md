@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+# this form is clone tiktok use video react js with firebase v9
+
+# website hosting https://tiktok-clone-24dfb.web.app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
